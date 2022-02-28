@@ -1,2 +1,5 @@
-
-## Using Html-Css-Javascript
+# Focal
+  Focal is my first project 
+  
+## Using
+  Html-Css-Javascript
